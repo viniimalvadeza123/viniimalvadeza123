@@ -14,4 +14,4 @@ Busco sempre me aprimorar e explorar novas stacks e ferramentas, com o objetivo 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 
-https://www.instagram.com/p/CPjUBhXDNEE/
+
